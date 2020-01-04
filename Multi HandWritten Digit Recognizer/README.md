@@ -20,10 +20,11 @@ Same can be implemented over the web browser and various devices. It is hoped th
 
 ## Download and use
 1. Press download or clone this repository.
-2. Extract it to your local location on computer.
-3. Run **```button.py```** from **```Multi HandWritten Digit Recognizer```** folder on your terminal or console. Pygame will be opened.
+2. Create a folder in the directory named **```roi```**
+3. Extract it to your local location on computer.
+4. Run **```button.py```** from **```Multi HandWritten Digit Recognizer```** folder on your terminal or console. Pygame will be opened.
 
-4. Draw the digits above the black line and click OK button and inference will be done just above the black line in blue color.
+5. Draw the digits above the black line and click OK button and inference will be done just above the black line in blue color.
 
 ## Screenshots
 
